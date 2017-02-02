@@ -1,0 +1,73 @@
+#source	dest	cond	attestation	notes
+[nasal]	a	C_C	Ancient Greek/Indo-Iranian/Albanian
+l̩	la	C_C	Ancient Greek
+r̩	ra	C_C	Ancient Greek
+[stop]ʰ[+voice]	[stop]ʰ[-voice]	_	Ancient Greek
+[stop]ʰ	[stop]	_...Cʰ	Ancient Greek/Sanskrit
+h	∅	_...Cʰ	Ancient Greek
+s	h	#_,V_V	Ancient Greek
+h	∅	V_V	Ancient Greek
+j	h	#_	Ancient Greek
+j	dz	#_?	Ancient Greek
+t	ts	_i	Ancient Greek
+w	∅	_	Ancient Greek
+h	∅	_	Ancient Greek
+tw	tʲː	_	Ancient Greek
+V{R,s}w	Vː{R,s}	_	Ancient Greek
+n	i	V_s	Aeolic Greek
+Vn	Vː	_s	Ancient Greek
+n	∅	V_s	Ancient Greek
+aː	ɛː	_	Ancient Greek
+ts	t	#_	Ancient Greek
+ts	tː	V_V	Ancient Greek
+ts	s	#_	Ancient Greek
+ts	sː	V_V	Ancient Greek
+u	y	_	Ancient Greek
+ei	eː	_	Ancient Greek
+ou	oː	_	Ancient Greek
+eː	iː	_	Ancient Greek
+oː	uː	_	Ancient Greek
+[velar]ʷ	[velar]	u_,_u	Indo-European
+[velar]ʷ	[alveolar]	_e,_i	Ancient Greek	does not affect plain velars
+[velar]ʷ	[bilabial]	_	Ancient Greek
+[bilabial]ʲ	pt	_	Ancient Greek
+e	i	C_V	Ancient Greek
+a	o	_{r,l},{r,l}_	Aeolic Greek
+#aː	ɛː	_{^e,i,r}
+e	i	_n	Arcadocypriot Greek
+e	a	_r	Northwest Greek
+e	a	r_,_n	Elean Greek
+ɛː	aː	_	Elean Greek
+ɛː	eː	_	Thessalian/Boeotian Greek
+i	r	r_	Aeolic Greek
+i	j	C_V	Lesbian/Thessalian Greek
+o	u	_#	Arcadocypriot Greek
+ɔː	oː	_	Thessalian Greek
+u	iu	[dental]_	Boeotian Greek
+ai	ɛː	_	Boeotian Greek
+ai	eː	_#	Thessalian Greek
+oi	yː	_	Greek
+i	∅	V_V	Ancient Greek
+i	∅	Vː_	Greek
+a{e,ɛ}	aː	_	Ancient Greek
+a{e,ɛ}	ɛː	_	Ancient Greek
+a{o,ɔ}	ɔː	_	Ancient Greek
+ea	ɛː	_	Ancient Greek
+eo	oː	_	Attic Greek
+oa	ɔː	_	Ancient Greek
+oe	oː	_	Ancient Greek
+h	∅	#_	Ancient Greek
+s	r	V_#	Elean Greek
+s	r	V_V	Eretrian Greek
+[stop][+voice]	[fricative][+voice]	_	Greek
+ɡ	j	{e,i}j	Ancient Greek
+[stop][-voice]ʰ	[fricative][-voice]	_	Greek
+tʰ	t	s_	Ancient Greek
+u	i	_	nowhere	this is a test
+i	u	_	nowhere	
+2	3	_t	everywhere	
+e	i	C_V	Ancient Greek	
+u	i	_	nowhere	this is a test
+i	u	_	nowhere	
+2	3	_t	everywhere	
+e	i	C_V	Ancient Greek	
